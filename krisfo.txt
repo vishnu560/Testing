@@ -1,7 +1,7 @@
 Employee names 
-vishnu
-aishwarya
-syed
-pavitra
-deepthi 
-puneeth
+vishnu-> 25
+aishwarya-> 23
+syed-> 32
+pavitra-> 22
+deepthi-> 24
+puneeth-> 27
